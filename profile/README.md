@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/stars/TaburetDev?style=for-the-badge)
 
 ## Team
-[<img src="https://github.com/TaburetDev/.github/tree/main/profile/assets/1.0.gif" width="100" height="100"/>](https://github.com/nikitafin)
+[<img src="https://github.com/TaburetDev/.github/blob/main/profile/assets/1.0.gif" width="100" height="100"/>](https://github.com/nikitafin)
 
 [Chucha](https://github.com/kotanamy)
 
