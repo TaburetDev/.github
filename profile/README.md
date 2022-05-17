@@ -2,15 +2,15 @@
 ![](https://img.shields.io/github/stars/TaburetDev?style=for-the-badge)
 
 ## Team
-<img src="./assets/1.0.gif" width="100" height="100"/> 
+[<img src="https://github.com/TaburetDev/.github/tree/main/profile/assets/1.0.gif" width="100" height="100"/>](https://github.com/nikitafin)
 
 [Chucha](https://github.com/kotanamy)
 
-[<img src="./assets/2.0.gif" width="100" height="100"/>](https://github.com/nikitafin)
+[<img src="https://github.com/TaburetDev/.github/tree/main/profile/assets/2.0.gif" width="100" height="100"/>](https://github.com/nikitafin)
 
 [Nukit](https://github.com/nikitafin)
 
-[<img src="./assets/3.0.gif" width="100" height="100"/>](https://github.com/MrStepin)
+[<img src="https://github.com/TaburetDev/.github/tree/main/profile/assets/3.0.gif" width="100" height="100"/>](https://github.com/MrStepin)
 
 [Stas](https://github.com/nikitafin)
 
